@@ -44,8 +44,6 @@
 
 - Specific：提出的问题应足够具体。
 
-- Against：提出的问题应针对特定的事情，行为。
-
 - Immediate：即时性，在问题出现时，即刻进行。
 
 - Sincere：feedback时，所有参与者保证足够真诚，保证自己一切问题和建议都是为了使对方更加优秀。
@@ -54,9 +52,6 @@
 
 - Feedback：对于feedback中提出的问题与解决方案进行再次的feedback。
 
-- Behavior：针对每一个问题，应有相对应的实例。
+- Against Behavior：针对提出每一个问题，应有相对应的具体的实例。
 
 - Follow up：追踪记录。
-
-
-
